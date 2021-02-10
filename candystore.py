@@ -13,6 +13,8 @@ print(type(candy_price))
 
 
 #Here down is what I actually submitted. This passed all tests.
+#I was ashamed to turn this in. This was a 'just write something
+#to pass.' Maybe not a lot better, but I am capable of better code.
 
 #Creating global variables far as the eye can see. I 'feel' that these would
 #be better as either function or lists(dictionariy,tuple,sets I'm not sure)
